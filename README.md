@@ -5,20 +5,20 @@ This project is developed using Java and File Handling concepts. The Contact Man
 
 Technologies Used:
 
-Java
-Java IO (File Handling)
-ArrayList
-Scanner Class
-Eclipse 
+Java,
+Java IO (File Handling),
+ArrayList,
+Scanner Class,
+Eclipse ,
 
 
 Concepts Used:
-Object Oriented Programming (OOP)
-Classes and Objects
-ArrayList
-File Handling
-Exception Handling
-Menu Driven Program
+Object Oriented Programming (OOP),
+Classes and Objects,
+ArrayList,
+File Handling,
+Exception Handling,
+Menu Driven Program,
 
 
 Features:
