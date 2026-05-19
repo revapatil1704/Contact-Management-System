@@ -3,7 +3,8 @@ This project is developed using Java and File Handling concepts. The Contact Man
 
 
 
-Technologies Used
+Technologies Used:
+
 Java
 Java IO (File Handling)
 ArrayList
@@ -11,7 +12,7 @@ Scanner Class
 Eclipse 
 
 
-Concepts Used
+Concepts Used:
 Object Oriented Programming (OOP)
 Classes and Objects
 ArrayList
@@ -20,22 +21,22 @@ Exception Handling
 Menu Driven Program
 
 
-Features
+Features:
 
-Add Contact
+Add Contact:-
 User can add new contact details.
 
-View Contacts
+View Contacts:-
 Displays all saved contacts.
 
-Update Contact
+Update Contact:-
 User can modify existing contact details.
 
-Delete Contact
+Delete Contact:-
 Removes contact from list.
 
-Save Contacts
+Save Contacts:-
 Stores contact details into text file.
 
-Load Contacts
+Load Contacts:-
 Reads contact details from file automatically when program starts.
